@@ -18,6 +18,8 @@ Some humans involved in this CNP:
 
 ### Chemistry:  
 
+Ruochong Xu, Chemist at University College London
+
 Dr Hadia Almahli, Chemist at University College London @HadiaAmahli
 
 Dr. Rahman Saleem, Project coordinator at University College London @rahmanszsaleem
@@ -26,7 +28,8 @@ Professor Matthew Todd, University College London. Head of Chemistry Networks at
 
 ### GCI, TSA NMR screening Team:
 
-Dr. Wenjie Chen, Protein Scientist University College London, @Wenjie-Ch 
+Dr. Wenjie Chen, Protein Scientist University College London, @Wenjie-Ch
+
 Dr. Chris Waudby, University College London.
 
 ### Soaking and crystallography:
