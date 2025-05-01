@@ -1,12 +1,12 @@
-# CNP25-CHIKV-nsP3-Macrodomain
+# CNP44-CHIKV-nsP3-MD-NMR-Hit
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 25) devoted to improving a hit found against CHIKV-nsP3-Macrodomain. The project is run as part of the READDI-AViDD consortium.
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 44 is focused on identifying a lead for CHIKV-nsP3-Macrodomain using NMR screening. The project is run as part of the READDI-AViDD consortium.
 
-You contribute synthetic chemistry and in return the SGC/READDI offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
+You contribute synthetic chemistry, and in return, the SGC/READDI offers biology. Together, we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP25-CHIKV-nsP3-Macrodomain/wiki) or check out the preprint on the fragment screen that has been published [here](https://doi.org/10.1101/2024.08.23.609196).
+For the science background, head to the [wiki]( link).
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
@@ -21,23 +21,16 @@ Dr. Rahman Saleem, Project coordinator at University College London @rahmanszsal
 
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd 
 
-GCI and TSA:
+GCI, TSA NMR screening Team:
 
 Dr. Wenjie Chen, Protein Scientist University College London, @Wenjie-Ch 
+Dr. Chris Waudby, University College London.
 
-Fragment screening and crystallography:
+Soaking and crystallography:
 
 Dr. Daren Fearon, Senior Beamline Scientist Diamond Light Source. 
 
 Dr. Jasmin Aschenbrenner, Scientist at Diamond Light Source 
-
-Dr. Warren Thompson, Diamond Light Source, @waztom
-
-Dr. Max Winokan, Computational Chemist at Diamond Light Source, @mwinokan 
-
-Kate Fieseler, Diamond Light Source, @kate-fie
-
-Mathew Golding, Diamond Light Source
 
 Antiviral assay:
 
